@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ankit Jaiswar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">ABOUT</h1>
+<h2>✨Who am I?</h2></br>
+<p>My name is Ankit Jaiswar and I’m pursuing my compurter engineering degree from Munbai University. On this page, you will find all of the code snippets that your programming journey has been longing for</p>
+
+
 
 - 🌱 I’m currently learning **React.js**
 
