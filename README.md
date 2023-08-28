@@ -4,11 +4,11 @@
 
 
 
-- 🌱 I’m currently learning **React.js**
+🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **MEARN**
+💬 Ask me about **MERN**
 
-- 📫 How to reach me **0447.ankit@gmail.com**
+📫 How to reach me **0447.ankit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
